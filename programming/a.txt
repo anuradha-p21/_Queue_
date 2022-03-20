@@ -1,3 +1,0 @@
-/*Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
-    void moveZeroes(vector<int>& nums) {
-        int i = 1 , j = 0;
